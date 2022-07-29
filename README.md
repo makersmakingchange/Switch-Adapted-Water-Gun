@@ -31,7 +31,7 @@ If you have the skills and equipment to build this device, and would like to don
 | Assembly Guide        | 1.0     | [Switch Adapted Water Gun Assembly Guide](/Documentation/Switch_Adapted_Water_Gun_Assembly_Guide_v1.0.pdf)|
 | Design Rationale      | 1.0     | [Switch Adapted Water Gun Design Rationale](/Documentation/Switch_Adapted_Water_Gun_Design_Rationale_v1.0.pdf)|
 | Bill of Materials     | 1.0     | [Switch Adapted Water Gun Bill of Materials](/Documentation/Working_Documents/Switch_Adapted_Water_Gun_BOM.xlsx)|
-| Maker Checklist       | 1.0     | [Switch Adapted Water Gun Maker Checklist](/DocumentationSwitch_Adapted_Water_Gun_Maker_Checklist_v1.0.pdf)|
+| Maker Checklist       | 1.0     | [Switch Adapted Water Gun Maker Checklist](/Documentation/Switch_Adapted_Water_Gun_Maker_Checklist_v1.0.pdf)|
 | User Guide            | 1.0     | [Switch Adapted Water Gun User Guide](/Documentation/Switch_Adapted_Water_Gun_User_Guide_v1.0.pdf)|
 | Changelog             | 1.0     | [Switch Adapted Water Gun Changelog](/DocumentationSwitch_Adapted_Water_Gun_Changelog_v1.0.pdf)|
 
