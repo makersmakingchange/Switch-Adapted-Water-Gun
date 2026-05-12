@@ -1,6 +1,10 @@
 # Switch Adapted Water Gun
 
-An adapted water gun that uses a 3.5mm assistive switch
+> [!IMPORTANT]
+2026-May-12 The commercial water gun that this design and adaptation method was based on is no longer available (https://www.amazon.ca/HITNEXT-Electric-Children-Operated-Automatic/dp/B0919VSGYH). 
+>
+
+An adapted water gun that uses a 3.5 mm assistive switch.
 
 ![image](https://user-images.githubusercontent.com/98916090/181500981-428af157-6138-472a-b2e5-19eb5bf65fff.png)
 
